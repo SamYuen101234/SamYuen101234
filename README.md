@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Sam Yuen, a Machine Learning Engineer.
 
 <!--
 **SamYuen101234/SamYuen101234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
